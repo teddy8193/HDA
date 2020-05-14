@@ -6,6 +6,7 @@ Unofficial QuadRemesher HDA for Linux based on Labs_QuadRemesher HDA from SideFX
 1.Requirements  
 This requires Wine to be installed on your system.  
 It's only tested under Ubuntu 18.04.4 LTS and Wine 5.0.
+*Wine needs to have root directory "/" as "z:" drive. This is default setting for Wine, but it's recommended to double check via winecfg.
 
 2.Installation  
 Place this HDA under your HDA directory.  
